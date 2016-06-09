@@ -156,7 +156,7 @@ public class Speechexam {
                                     System.out.println("to : " + to);
                                     System.out.println("from : " + from);
 
-                                    Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
+                                   // Security.addProvider(new com.sun.net.ssl.internal.ssl.Provider());
                                     Properties props = new Properties();
                                     props.put("mail.smtp.user", smtpUsername);
                                     props.put("mail.smtp.host", smtpHost);
