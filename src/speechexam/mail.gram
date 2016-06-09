@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+grammar hello;
+
+public <email> = (send mail | email);
+public <name> =  ( s |me | b | v | v<object>) ;
+public <object> = (a | an);
+public <unread> = (show my unread email);
+public <subj> = (hi | how | are | you | what | doing | when | come | at | my | house |a | an | y | why | not | in) * ;
+
+public <answer> =(yes | no );

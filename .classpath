@@ -2,20 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/cmu_time_awb.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/cmu_us_kal.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/cmudict04.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/cmulex.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/cmutimelex.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/en_us.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/freetts.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/freetts-jsapi10.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/javax.mail.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/jsapi.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/mbrola.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/sphinx4.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/TIDIGITS_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
-	<classpathentry kind="lib" path="D:/NetBeansProjects/speechexam/lib/MySQLDriver/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spinex4.0"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
