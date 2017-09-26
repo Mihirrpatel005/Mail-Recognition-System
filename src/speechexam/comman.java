@@ -22,6 +22,7 @@ public class comman {
 
     public int count_unread_mail() throws MessagingException {
         Folder inbox;
+        int a;
 
        
         final String SSL_FACTORY = "javax.net.ssl.SSLSocketFactory";
